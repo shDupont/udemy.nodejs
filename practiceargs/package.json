@@ -1,0 +1,18 @@
+{
+  "name": "externalmodules",
+  "version": "1.0.0",
+  "description": "study about npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "read",
+    "files"
+  ],
+  "author": "shDupont",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}

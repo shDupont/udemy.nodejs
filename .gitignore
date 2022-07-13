@@ -1,0 +1,6 @@
+# Project exclude paths
+/absinput/node_modules/
+/chalk/node_modules/
+/externalModules/node_modules/
+/practiceargs/node_modules/
+/tarefa02/node_modules/
